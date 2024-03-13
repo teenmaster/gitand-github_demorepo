@@ -1,2 +1,2 @@
 # Git and github link connection
-Demonstrates hoe git and github work seamlessly 
+Demonstrates how git and github work seamlessly 
